@@ -17,4 +17,4 @@ El fichero producto de la descarga tiene cinco columnas:
 
 * `value`: el valor correspondiente
 
-
+`Nota:` Los ministerios tienen la mala costumbre de modificar urls, formato de ficheros, etc. a su antojo y sin preaviso. Es posible que cuando tú uses el código, este ya no funcione. Te ruego que me avises si es el caso, tanto para comunicármelo como para enviarme el parche que solucione el problema si sabes cómo.
