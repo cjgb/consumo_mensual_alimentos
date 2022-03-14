@@ -1,6 +1,6 @@
 # Consumo alimentario mensual en los hogares españoles en R
 
-Este repositorio contiene dos _scripts_ de R para extraer las series mensuales de consumo de alimentos en España por CCAA a partir de los ficheros que publica el ministerio competente [aquí](https://www.mapa.gob.es/es/alimentacion/temas/consumo-y-comercializacion-y-distribucion-alimentaria/panel-de-consumo-alimentario/series-anuales/).
+Este repositorio contiene dos _scripts_ de R para extraer las series mensuales de consumo de alimentos en España por CCAA a partir de los ficheros que publica el ministerio competente [aquí](https://www.mapa.gob.es/es/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx).
 
 Desafortunadamente, el ministerio publica vistas distintas de los mismos datos a través de dos mecanismos distintos. De ahí que haya dos _scripts_.
 
